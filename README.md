@@ -7,5 +7,5 @@ enemy monsters and use them as Pokémon.
 
 Wish I had more time for that kind of stuff.
 
-Live demo at http://lambda.wiki/mememan - takes some time to load all assets.
+Live demo at https://maiavictor.github.io/mememan. (Takes some time to load all assets.)
 
